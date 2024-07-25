@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{B3DC4C7E-1CB7-49CF-A932-32616137A21C}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="1" kind="0" dateTime="45475.253599537" objectName="Aliases.explorer.wndTaskListThumbnailWnd" objectLeft="0" objectTop="0" objectRight="270" objectBottom="191" clickPointX="89" clickPointY="131" imageFileName="tcvi8581181269680.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45475.2536805556" objectName="Aliases.browser.pageMailPoojaTNOutlook.panelConfirmYourEmailAddress" objectLeft="938" objectTop="267" objectRight="1913" objectBottom="312" clickPointX="1663" clickPointY="281" imageFileName="tcvi85818406165561.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="45475.2537152778" objectName="Aliases.browser.pageMailPoojaTNOutlook.textnodeDeletedItems" objectLeft="146" objectTop="464" objectRight="364" objectBottom="486" clickPointX="150" clickPointY="463" imageFileName="tcvi85821203165562.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45475.25375" objectName="Aliases.browser.pageMailPoojaTNOutlook.textnodeJunkEmail" objectLeft="146" objectTop="497" objectRight="374" objectBottom="519" clickPointX="225" clickPointY="496" imageFileName="tcvi85824437165564.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

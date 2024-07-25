@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{B887ED37-FF17-47D1-BEB8-52EB5CD952F3}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="explorer" Key="{3C31F47E-FD32-4618-AC3E-EB4ED7D62C81}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="explorer" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="wndTaskListThumbnailWnd" Key="{0C5D411D-0451-4CCB-B553-E8BD43B7EAB3}">
+								<TypeInfo Item0="{9C092FD6-27BB-49D2-833F-FA0C8735690B}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="TaskListThumbnailWnd" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+					<Child Name="browser" Key="{A6BD608F-334D-4E5B-8B58-F87BF8268C65}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="pageMailPoojaTNOutlook" Key="{7425CA52-1354-4EC3-9969-B13653EE5BEF}">
+								<Image FileName="1513522664" Left="5" Top="87" Right="1924" Bottom="1067" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="https://outlook.office.com/mail/inbox/id/AAQkADVlYjMyNmQwLTViMTAtNDFjMC1iZDgxLTM2ZGFhMTYzZWY1ZgAQAMRll3%2FXqehOl1M7R6hYBp0%3D" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="panelConfirmYourEmailAddress" Key="{35D2E688-6C9D-4B91-80CB-4F64216DCEA1}">
+										<Image FileName="1261562963" Left="938" Top="267" Right="1913" Bottom="312" />
+										<TypeInfo Item0="{FF24B8B3-8A14-4388-8D55-5C8A022F8ACD}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//div[contains(@class, &apos;XxeQL&apos;)]" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeDeletedItems" Key="{C7C8ED64-414A-4302-9DAD-8EE0C70DF4C6}">
+										<Image FileName="464191421" Left="146" Top="464" Right="364" Bottom="486" />
+										<TypeInfo Item0="{FF24B8B3-8A14-4388-8D55-5C8A022F8ACD}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[.=&apos;Deleted Items&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]//div[4]//span[contains(@class, &apos;gtcPn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;folderPaneDroppableContainer&apos;]//div[4]/div/span" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[4]/div/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnodeJunkEmail" Key="{552C90F8-8C3D-45EB-A6F7-EBE7EF34373F}">
+										<Image FileName="-407818352" Left="146" Top="497" Right="374" Bottom="519" />
+										<TypeInfo Item0="{FF24B8B3-8A14-4388-8D55-5C8A022F8ACD}" />
+										<Selectors>
+											<Selector>
+												<Value Value="//span[.=&apos;Junk Email&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]//div[5]//span[contains(@class, &apos;gtcPn&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;folderPaneDroppableContainer&apos;]//div[5]/div/span" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[5]/div/span" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="BrowserWindow" Key="{87E34EEC-6895-4F4A-AC48-0B0B8BE9FB77}">
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="explorer" Owner="{3C31F47E-FD32-4618-AC3E-EB4ED7D62C81}">
+			<Child Name="wndTaskListThumbnailWnd" Owner="{0C5D411D-0451-4CCB-B553-E8BD43B7EAB3}" />
+		</Child>
+		<Child Name="browser" Owner="{A6BD608F-334D-4E5B-8B58-F87BF8268C65}">
+			<Child Name="pageMailPoojaTNOutlook" Owner="{7425CA52-1354-4EC3-9969-B13653EE5BEF}">
+				<Child Name="panelConfirmYourEmailAddress" Owner="{35D2E688-6C9D-4B91-80CB-4F64216DCEA1}" />
+				<Child Name="textnodeDeletedItems" Owner="{C7C8ED64-414A-4302-9DAD-8EE0C70DF4C6}" />
+				<Child Name="textnodeJunkEmail" Owner="{552C90F8-8C3D-45EB-A6F7-EBE7EF34373F}" />
+			</Child>
+			<Child Name="BrowserWindow" Owner="{87E34EEC-6895-4F4A-AC48-0B0B8BE9FB77}" />
+		</Child>
+	</LogicalNodes>
+</Root>
